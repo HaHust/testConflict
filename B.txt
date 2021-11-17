@@ -1,3 +1,5 @@
 BBBBBBB
 
 van nhanh Master
+
+commit dau cua nhanh B1
