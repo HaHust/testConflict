@@ -7,3 +7,5 @@ commit dau cua nhanh B1
 
 
 Method can lay
+
+Da up date ok
