@@ -3,3 +3,7 @@ BBBBBBB
 van nhanh Master
 
 commit dau cua nhanh B1
+
+
+
+Method can lay
